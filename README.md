@@ -1,4 +1,4 @@
-# DataVisualizationWithPowerBI
+# Data Visualization With Power BI
 Slides, Power BI Desktop files and helpers used in netcoreconf.
 
 We live in the era of data. We are surrounded by data. There are tons of tools, methodologies, software, processes, etc. to extract, transform and load from just a couple or records to even tens of millions of records.
